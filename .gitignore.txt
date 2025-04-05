@@ -1,0 +1,20 @@
+# Unity & Blender
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.blend1
+*.blend2
+.DS_Store
+*.exe
+*.zip
+.vs/
